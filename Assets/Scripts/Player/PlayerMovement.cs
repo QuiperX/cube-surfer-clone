@@ -27,7 +27,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        //print position of player
+        
         if (!canMotion)
             return;
 
@@ -42,10 +42,8 @@ public class PlayerMovement : MonoBehaviour
 
     public void AccessEndPoint()
     {
-        //using dotween decrease speed of player smoothly
         DOTween.To(() => VelocityOfPlayer, x => VelocityOfPlayer = x, 0f, 0.6f).OnComplete(() => canMotion = false);
         Debug.Log("AccessEndPoint");
-        
     }
 
     public void Fail()

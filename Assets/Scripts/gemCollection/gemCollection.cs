@@ -18,7 +18,6 @@ public class gemCollection : MonoBehaviour
             other.gameObject.SetActive(false);
             gemCount = gemCount + 1;
             //reposition the particle system to gem position and play
-            //gemCollectEffect.transform.position = other.transform.position;
             
         }
     }

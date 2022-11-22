@@ -40,7 +40,6 @@ public class SettingsMenu : MonoBehaviour
     
     private void Update()
     {
-        //Mathf.PingPong(Time.time * 100, 100)
         arrowImage.transform.position = new Vector3(500f + Mathf.PingPong(Time.time * 100, 100), arrowImage.transform.position.y, arrowImage.transform.position.z);
     }
     
@@ -78,7 +77,6 @@ public class SettingsMenu : MonoBehaviour
         {
             for (int i = 0; i < itemsCount; i++)
             {
-                //menuItems[i].trans.position = mainButtonPosition+spacing * (i+1);
                 menuItems[i].trans.DOMove(mainButtonPosition+spacing*(i+1), collapseDuration).SetEase(expandEase);
                 
             }

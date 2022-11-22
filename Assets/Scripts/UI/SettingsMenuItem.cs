@@ -8,10 +8,8 @@ public class SettingsMenuItem : MonoBehaviour
     [HideInInspector] public Image img;
     [HideInInspector] public Transform trans;
 
-
     private void Awake()
     {
         trans = transform;
-        //img = GetComponent<Image>();
     }
 }

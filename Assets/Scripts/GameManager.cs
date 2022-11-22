@@ -8,7 +8,6 @@ using System.Collections;
 
 public class GameManager : MonoBehaviour
 {
-    //All scenes list
 
     public SwerveMovement SwerveMovement;
     public SwerveInputSystem SwerveInputSystem;
@@ -65,7 +64,6 @@ public class GameManager : MonoBehaviour
         PlayerPrefs.SetString("LevelSaved", activeScene);
     }
 
-    //Activate winUI
     public void ActivateWinUI()
     {
         playerMovement.AccessEndPoint();
@@ -76,7 +74,7 @@ public class GameManager : MonoBehaviour
         Vector3 defaultScaleWin = winUI.transform.localScale;
 
         winUI.transform.localScale = Vector3.one * 0.01f;
-        Debug.Log("defaultScaleWin: " + defaultScaleWin);
+        //Debug.Log("defaultScaleWin: " + defaultScaleWin);
         winUI.transform.DOScale(defaultScaleWin, 1f);
 
     }
@@ -87,9 +85,7 @@ public class GameManager : MonoBehaviour
         
         playerMovement.Fail();
         loseUI.gameObject.SetActive(true);
-        
         Vector3 defaultScale = loseUI.transform.localScale;
-        Debug.Log("defaultScale: " + defaultScale);
         loseUI.transform.localScale = Vector3.one * 0.01f;
         loseUI.transform.DOScale(defaultScale, 1f);
 
@@ -129,7 +125,6 @@ public class GameManager : MonoBehaviour
             levelCounter = 1;
         }
         
-        Debug.Log("Before Save: " + levelIndex);
         if (levelIndex < levelCount-2)
         {
             levelIndex++;
@@ -165,7 +160,6 @@ public class GameManager : MonoBehaviour
 
     public void ExitGame()
     {
-        Debug.Log("Exit Game");
         Application.Quit();
     }
 

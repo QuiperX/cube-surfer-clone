@@ -7,9 +7,6 @@ public class Detector : MonoBehaviour
 
     public ParticleSystem gemCollect;
 
-    
-    
-    //GemUIController instance
     public GemUIController gemUIController;
 
     private void OnTriggerEnter(Collider other)
@@ -20,7 +17,6 @@ public class Detector : MonoBehaviour
             {
                 if (other.gameObject.CompareTag("Cube"))
                 {
-                    //Debug.Log($"Cube {collision.gameObject.name}");
 
                     var cubeBehaviour = other.gameObject.GetComponent<CubeBehaviour>();
 
@@ -55,29 +51,4 @@ public class Detector : MonoBehaviour
         }
 
     }
-
-    /*
-    private void OnCollisionEnter(Collision collision)
-    {
-        Debug.Log("REAL COLLISION");
-
-        //buradaki collision sadece collection layeri ile etkileþime geçmesi gerekir.
-        //Dolayýsýyla öncelikle küp toplayý diðer kýsýmdan devre dýþý býrakarak burada debug ile bu sistemin çalýþýp çalýþmadýðýný sorgulayacaðýz.
-
-
-
-        if (collision.gameObject.CompareTag("Cube"))
-        {
-            //Debug.Log($"Cube {collision.gameObject.name}");
-
-            var cubeBehaviour = collision.gameObject.GetComponent<CubeBehaviour>();
-
-            if (!cubeBehaviour.isStacked)
-            {
-                //Debug listOfCubeBehaviour count
-                //Debug.Log($"List Count for now: {PlayerCubeStackController.Instance.listOfCubeBehaviour.Count}");
-                PlayerCubeStackController.Instance.GetCube(cubeBehaviour);
-            }
-        }
-    }*/
 }

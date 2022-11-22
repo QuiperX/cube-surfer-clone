@@ -8,11 +8,6 @@ public class CubeBehaviour : MonoBehaviour
     public bool isStacked = false;
     private RaycastHit hit;
 
-    
-    //rightbottom vector3
-
-    //private Vector3 rightBottomVector = new Vector3(transform.position, -0.5f, 0);
-
     void FixedUpdate()
     {
         
@@ -22,9 +17,6 @@ public class CubeBehaviour : MonoBehaviour
         float coeff = 0.02f;
         Debug.DrawRay(transform.position, direction * coeff, Color.red);
 
-        //küplerden en alttakini buluruz. Bu küpe toplayýcý olmasý açýsýndan raycast ekleriz.
-
-        //if this object is
 
         if (Physics.Raycast(transform.position, direction, out hit, coeff))
         {
@@ -33,7 +25,6 @@ public class CubeBehaviour : MonoBehaviour
             {
                 hit.transform.gameObject.GetComponent<BoxCollider>().enabled = false;
                 GameManager.instance.ActivateWinUI();
-
             }
         }
 
@@ -46,11 +37,8 @@ public class CubeBehaviour : MonoBehaviour
                 PlayerCubeStackController.Instance.DropCube(this);
                 
             }
-            //crash.gameObject.SetActive(true);
             
         }
-
-
 
     }
 

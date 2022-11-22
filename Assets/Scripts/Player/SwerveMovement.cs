@@ -24,9 +24,7 @@ public class SwerveMovement : MonoBehaviour
 
         float swerveAmount = swerveInputSystem.MoveFactoryX * swerveSpeed * Time.deltaTime;
         swerveAmount = Mathf.Clamp(swerveAmount, -MaxSwerveAmount, MaxSwerveAmount);
-        //if player reach to edges then stop swerve movement and if player in the middle then move
 
-        //limit swerve movement
         if (transform.position.x < -0.13f && swerveAmount < 0)
         {
             swerveAmount = 0;

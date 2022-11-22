@@ -6,14 +6,6 @@ using DG.Tweening;
 
 public class PlayerCubeStackController : MonoBehaviour
 {
-    //create cube block list
-
-    [SerializeField]
-    private float stepLength = 0.043f;
-
-    [SerializeField]
-    private float groundYValue = -0.0213f;
-
     public float cubeSize = 0.04f;
 
     public GameObject playerBody;
@@ -67,7 +59,7 @@ public class PlayerCubeStackController : MonoBehaviour
         
     }
 
-    //endpoint
+
     private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.name == "EndPoint")
@@ -82,7 +74,7 @@ public class PlayerCubeStackController : MonoBehaviour
     {
         
         var playerBehaviour = PlayerBehaviour.Instance.transform;
-        //playerTarget vectorunun durumu deðiþtirilecek. Player doðru yükselmiyor
+        
         
         Vector3 playerTarget = new Vector3(0f, listOfCubeBehaviour[listOfCubeBehaviour.Count - 1].transform.position.y +0.02f, 0f);
 
@@ -93,18 +85,13 @@ public class PlayerCubeStackController : MonoBehaviour
     {
 
         var playerTransform = PlayerBehaviour.Instance.transform;
-        //generate random number between 100-180
         float randomRotation = Random.Range(90, 270);
-        Debug.Log("RANDOM: " + randomRotation);
+        //Debug.Log("RANDOM: " + randomRotation);
 
         playerTransform.DORotate(new Vector3(0f, randomRotation, 0f), 0.1f);
         Vector3 ground = new Vector3(0f, -0.035f, 0f);
 
-        //playerTransform.DOLocalJump(ground, 0.05f, 1 , 0.5f);
-        //playerbehaviour boxcollider active
-        //playerBody.gameObject.GetComponent<BoxCollider>().enabled = true;
         playerBody.gameObject.transform.position = new Vector3(playerBody.gameObject.transform.position.x, 0.005f, playerBody.gameObject.transform.position.z);
-        //playerBody.gameObject.GetComponent<Rigidbody>().isKinematic = false;
 
     }
 
@@ -123,7 +110,6 @@ public class PlayerCubeStackController : MonoBehaviour
         {
             Debug.Log("Gameover");
             
-            
             PlayerBehaviour.Instance.StopPlayer();
             PlayerBehaviour.Instance.FailAnimation();
             CameMovement.instance.FocusPlayer();
@@ -132,12 +118,6 @@ public class PlayerCubeStackController : MonoBehaviour
             
             GameManager.instance.ActivateLoseUI();
 
-
-            /*
-            var playerTransform2 = PlayerBehaviour.Instance.transform;
-            Vector3 groundTarget = new Vector3(0f, -0.016f, -0.14f);
-            playerTransform2.DOLocalJump(groundTarget, 0.05f, 1, 0.5f);
-            */
             return;
         }
 
@@ -152,7 +132,7 @@ public class PlayerCubeStackController : MonoBehaviour
             cube.GetComponent<Rigidbody>().isKinematic = true;
 
         }
-        //lift the cubes in the list up to the cube size
+        
         for (int i = 0; i < listOfCubeBehaviour.Count; i++)
         {
             var cube = listOfCubeBehaviour[i];
@@ -166,12 +146,6 @@ public class PlayerCubeStackController : MonoBehaviour
             cube.GetComponent<Rigidbody>().isKinematic = false;
 
         }
-
-        //find top cube in the listOfCubeBehaviour
-        
-
-
-
 
     }
 
