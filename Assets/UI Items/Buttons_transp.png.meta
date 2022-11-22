@@ -1,0 +1,1297 @@
+fileFormatVersion: 2
+guid: 22a18f967e1e802478a5f85c22045d7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6479217341615416116
+    second: Buttons_transp_0
+  - first:
+      213: -405880548604100508
+    second: Buttons_transp_1
+  - first:
+      213: -269105608944947238
+    second: Buttons_transp_2
+  - first:
+      213: -6946381274373357553
+    second: Buttons_transp_3
+  - first:
+      213: -8857944859569959109
+    second: Buttons_transp_4
+  - first:
+      213: -4573179360592403676
+    second: Buttons_transp_5
+  - first:
+      213: -7662955692993300737
+    second: Buttons_transp_6
+  - first:
+      213: 548542072591954878
+    second: Buttons_transp_7
+  - first:
+      213: 7664813709040938088
+    second: Buttons_transp_8
+  - first:
+      213: -3082899825457705691
+    second: Buttons_transp_9
+  - first:
+      213: -370323068736635123
+    second: Buttons_transp_10
+  - first:
+      213: 7173623480296850705
+    second: Buttons_transp_11
+  - first:
+      213: -7353629326980885807
+    second: Buttons_transp_12
+  - first:
+      213: 8367271132048527437
+    second: Buttons_transp_13
+  - first:
+      213: 5177099917974361453
+    second: Buttons_transp_14
+  - first:
+      213: 1971827320964328395
+    second: Buttons_transp_15
+  - first:
+      213: -5230306036048630163
+    second: Buttons_transp_16
+  - first:
+      213: -4264944045653742736
+    second: Buttons_transp_17
+  - first:
+      213: -2661882844612717857
+    second: Buttons_transp_18
+  - first:
+      213: 4649102391521291851
+    second: Buttons_transp_19
+  - first:
+      213: 4657718520200226494
+    second: Buttons_transp_20
+  - first:
+      213: 5948637298230560590
+    second: Buttons_transp_21
+  - first:
+      213: -3063602714528776920
+    second: Buttons_transp_22
+  - first:
+      213: 829122010883958124
+    second: Buttons_transp_23
+  - first:
+      213: -2030377110862674036
+    second: Buttons_transp_24
+  - first:
+      213: 8762452704599872482
+    second: Buttons_transp_25
+  - first:
+      213: 3672840623271441682
+    second: Buttons_transp_26
+  - first:
+      213: 8251382533722270360
+    second: Buttons_transp_27
+  - first:
+      213: 4360337749706250475
+    second: Buttons_transp_28
+  - first:
+      213: -7981341456383639746
+    second: Buttons_transp_29
+  - first:
+      213: -5943333860578863561
+    second: Buttons_transp_30
+  - first:
+      213: -2732945793551339046
+    second: Buttons_transp_31
+  - first:
+      213: 6861911890143299037
+    second: Buttons_transp_32
+  - first:
+      213: 9026180810938919921
+    second: Buttons_transp_33
+  - first:
+      213: -1220113000794808149
+    second: Buttons_transp_34
+  - first:
+      213: -140201520835859458
+    second: Buttons_transp_35
+  - first:
+      213: 7702789309711987886
+    second: Buttons_transp_36
+  - first:
+      213: -8659560423177016575
+    second: Buttons_transp_37
+  - first:
+      213: -1255326991327388906
+    second: Buttons_transp_38
+  - first:
+      213: -6988196194730222979
+    second: Buttons_transp_39
+  - first:
+      213: -6093658532556494712
+    second: Buttons_transp_40
+  - first:
+      213: 4184574668730050685
+    second: Buttons_transp_41
+  - first:
+      213: 905920125034871142
+    second: Buttons_transp_42
+  - first:
+      213: 6007741189459802118
+    second: Buttons_transp_43
+  - first:
+      213: -4072897925123993957
+    second: Buttons_transp_44
+  - first:
+      213: 5815305003390756440
+    second: Buttons_transp_45
+  - first:
+      213: -8203128450659794540
+    second: Buttons_transp_46
+  - first:
+      213: 4778801184797870021
+    second: Buttons_transp_47
+  - first:
+      213: 1880189023827188783
+    second: Buttons_transp_48
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buttons_transp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc567af7223516a0800000000000000
+      internalID: -6479217341615416116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 390
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460463f9ac50e5af0800000000000000
+      internalID: -405880548604100508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 390
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf65cbdfd1f34cf0800000000000000
+      internalID: -269105608944947238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_3
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 390
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f000d82d80f799f90800000000000000
+      internalID: -6946381274373357553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_4
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 390
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fc555e412421580800000000000000
+      internalID: -8857944859569959109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_5
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 390
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423edbde99dc880c0800000000000000
+      internalID: -4573179360592403676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_6
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 390
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6b395b566b7a590800000000000000
+      internalID: -7662955692993300737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_7
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 390
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb33335db10dc9700800000000000000
+      internalID: 548542072591954878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cedec5573ee5a60800000000000000
+      internalID: 7664813709040938088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 312
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dca7151f65735d0800000000000000
+      internalID: -3082899825457705691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 312
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ff1db81295cdaf0800000000000000
+      internalID: -370323068736635123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 312
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115ce7f3c84dd8360800000000000000
+      internalID: 7173623480296850705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_12
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 312
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2d86b9619a2f990800000000000000
+      internalID: -7353629326980885807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_13
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 312
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40122d43c48e1470800000000000000
+      internalID: 8367271132048527437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 312
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65d09922f0c8d740800000000000000
+      internalID: 5177099917974361453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_15
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 335
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb2d7050865d5b10800000000000000
+      internalID: 1971827320964328395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_16
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 312
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e6dbe1f583a67b0800000000000000
+      internalID: -5230306036048630163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b24e3bcffdfc4c0800000000000000
+      internalID: -4264944045653742736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 234
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd21725f7a71f0bd0800000000000000
+      internalID: -2661882844612717857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 234
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4eab0b3efde48040800000000000000
+      internalID: 4649102391521291851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_20
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 234
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6ea44015a83a040800000000000000
+      internalID: 4657718520200226494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_21
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 234
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e470ca20b1ecd8250800000000000000
+      internalID: 5948637298230560590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_22
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 234
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82df6931095eb75d0800000000000000
+      internalID: -3063602714528776920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_23
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 234
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6522367312a18b00800000000000000
+      internalID: 829122010883958124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_24
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 234
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8742fa66c6a2d3e0800000000000000
+      internalID: -2030377110862674036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e316d23f4c7a9970800000000000000
+      internalID: 8762452704599872482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_26
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 156
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215f7ba561d88f230800000000000000
+      internalID: 3672840623271441682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_27
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 156
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ae06c52bcc28270800000000000000
+      internalID: 8251382533722270360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_28
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 156
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be897ffc418038c30800000000000000
+      internalID: 4360337749706250475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_29
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 156
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f772d7b349c3190800000000000000
+      internalID: -7981341456383639746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_30
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 156
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73655aac759058da0800000000000000
+      internalID: -5943333860578863561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_31
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 156
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad179f0d740a21ad0800000000000000
+      internalID: -2732945793551339046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_32
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 156
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5450412886a3f50800000000000000
+      internalID: 6861911890143299037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb2672ff9f634d70800000000000000
+      internalID: 9026180810938919921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_34
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 78
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba02ac1b0b9411fe0800000000000000
+      internalID: -1220113000794808149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_35
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 78
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbeb99a577ed0ef0800000000000000
+      internalID: -140201520835859458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_36
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 78
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea43f09e01ec5ea60800000000000000
+      internalID: 7702789309711987886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_37
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 78
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ba089ecaf03d780800000000000000
+      internalID: -8659560423177016575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_38
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 78
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b98fc90ce249ee0800000000000000
+      internalID: -1255326991327388906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_39
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 78
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a5e500690f40f90800000000000000
+      internalID: -6988196194730222979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_40
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 78
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8882178a9d9fe6ba0800000000000000
+      internalID: -6093658532556494712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78a0c98d78921a30800000000000000
+      internalID: 4184574668730050685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_42
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669b49fcd89729c00800000000000000
+      internalID: 905920125034871142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_43
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608fb3c08c8cf5350800000000000000
+      internalID: 6007741189459802118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_44
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e0f8e8ae82a77c0800000000000000
+      internalID: -4072897925123993957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_45
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85668abf61d14b050800000000000000
+      internalID: 5815305003390756440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_46
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 0
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491c58bd222a82e80800000000000000
+      internalID: -8203128450659794540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_47
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7c710cb56b15240800000000000000
+      internalID: 4778801184797870021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_transp_48
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cdecb94f5c71a10800000000000000
+      internalID: 1880189023827188783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a72b518cbb0d76a41a4a4f9d7d070d3e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
