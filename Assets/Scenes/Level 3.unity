@@ -6486,17 +6486,17 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 90.39
-  m_fontSizeBase: 90.39
+  m_fontSize: 74.87
+  m_fontSizeBase: 74.87
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 8
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
-  m_characterSpacing: 0
+  m_characterSpacing: 12.37
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
