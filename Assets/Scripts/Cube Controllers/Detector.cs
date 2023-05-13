@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Detector : MonoBehaviour
 {
+    //helps to detect the collision of the cube with the end point
 
     public ParticleSystem gemCollect;
 
