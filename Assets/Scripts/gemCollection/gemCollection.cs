@@ -2,12 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class gemCollection : MonoBehaviour
 {
     //this script will controll the gem collection of player
     private int gemCount = 0;
 
     public ParticleSystem gemCollectEffect;
+    
+    
 
     void OnTriggerEnter(Collider other)
     {

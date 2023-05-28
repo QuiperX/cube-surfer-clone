@@ -10,6 +10,8 @@ public class GemUIController : MonoBehaviour
 
     private int gemCount;
 
+ 
+
     //singleton
 
     #region Singleton
@@ -34,7 +36,7 @@ public class GemUIController : MonoBehaviour
     }
 
     #endregion
-
+    
 
     public void loadGemCount(int gemCount)
     {
@@ -56,6 +58,7 @@ public class GemUIController : MonoBehaviour
 
     public void UpdateText()
     {
+        gemCount = PlayerPrefs.GetInt("GemCount");
         textMeshProUGUI.text = gemCount.ToString();
     }
 

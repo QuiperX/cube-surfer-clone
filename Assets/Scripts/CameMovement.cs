@@ -24,6 +24,7 @@ public class CameMovement : MonoBehaviour
             Destroy(this);
         }
         instance = this;
+        //DontDestroyOnLoad(this);
 
     }
     #endregion
