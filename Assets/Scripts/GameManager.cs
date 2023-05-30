@@ -73,7 +73,6 @@ public class GameManager : MonoBehaviour
             // Check if the value is 0 or 1
             if (removeAds == 0)
             {
-                //bannerId
                 HMSAdsKitManager.Instance.ShowBannerAd();
             }
             else if (removeAds == 1)
